@@ -974,6 +974,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3600643431587687517, guid: 9a5f820ee9c46b64294ae756b459a681, type: 3}
+      propertyPath: m_AffordanceThemeDatum.m_Variable
+      value: 
+      objectReference: {fileID: 11400000, guid: 777d0b82a13dd5d7d813697e53edae62, type: 2}
     - target: {fileID: 4696973491166461409, guid: 9a5f820ee9c46b64294ae756b459a681, type: 3}
       propertyPath: m_Name
       value: InteractionAffordance
